@@ -8,3 +8,8 @@
 - REST API fundamentals
 - API versioning basics
 - HTTPS importance and backend trust boundaries
+
+
+### Hands-on
+- Inspect API calls in browser DevTools
+- Call public APIs using Postman
