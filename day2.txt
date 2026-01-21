@@ -1,0 +1,37 @@
+ls 				- list of all files and directories
+ls -la 				- list of all files and hidden files
+cd 				- change directories
+mkdir 				- make directory
+touch 				- make file
+cp file1 file2 			- copy file
+rmdir 				- remove empty folder
+rm 				- remove file
+rm -rf 				- delete all the files and folder
+rm -r 				- delete specific folder and internal data excluding protected files
+locate 				- find file
+cat 				- read data of file
+echo 				- print text
+echo "text" > filename 		- print in file
+cat file1 >> file2 		- copy data in the end
+clear 				- it clears the terminal
+wget 				- download from web
+uname 				- os info
+sort 				- sort the data of file
+cd .. 				- get back to previous directory
+cd~ 				- get to home page
+ps 				- tells current process
+ps aux			- list of process aux(a-all , u - user-oriented x - background processes/daemons) daemons/bg processes - printing/networking backup update
+grep "word" file		- it prints all the lines which have that specific word 
+kill PID			- kills the process of the specific pid process
+lsof -i" 3000		- it gives the list of process running on the 3000 port
+ln(link)
+
+
+not working - wget, ln
+
+
+
+
+
+working of command prompt - 
+when we type command in command prompt and hit enter then the shell activate and check what user give is it built in function or any command to do when it find it the shell gives instruction to os to something like creating a file opening and etc then the output message sendback to user with error or succesfull message and loop run to take another command
